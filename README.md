@@ -40,12 +40,12 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
 <UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
   
-  Website Management & Marketing Plan Presentation for 'Main Street Animal Hospital'
+<b> Website Management & Marketing Plan Presentation for 'Main Street Animal Hospital'
 
 Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langely, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test ans SEO score assesment, I completed a SWOT Analysis.
 
 * <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
-<img src="Tastefully Yours by Jeff Buyer Persona.jpg"
-     alt="Tastefully Yours by Jeff Buyer Persona.jpg"
+<img src="Main Street Animal Hospital Buyer Persona.jpg"
+     alt="Main Street Animal Hospital Buyer Persona.jpg"
      style="float: left; margin-right: 10px;" />
