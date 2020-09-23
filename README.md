@@ -42,7 +42,7 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
   
   
   
-<b> Website Management & Marketing Plan Presentation for 'Main Street Animal Hospital'
+<b> Website Management & Marketing Plan Presentation for 'Main Street Animal Hospital'</b>
 
 Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and catss. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
 
