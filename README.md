@@ -12,7 +12,7 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 - Customer upfront/capex payment for hardware product
 - Customer monthly/opex payment for hardware product
 
-<UL><LI><a href="https://drive.google.com/file/d/1CMC_gP-tdF78kBF-fWiZVMFXwEKrwYOq/view?usp=sharing">Microsoft Excel Financial Model</a>
+<UL><LI><a href="https://www.dropbox.com/s/0slmui1onjrkcrz/Financial%20Model%20Example.xlsx?dl=0">Microsoft Excel Financial Model</a>
 </UL>
   
 <img src="Financial Model Example SNIP.jpg"
