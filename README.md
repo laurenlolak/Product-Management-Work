@@ -12,9 +12,9 @@ Financials model inputs are;
 - Customer upfront/capex payment for hardware product
 - Customer monthly/opex payment for hardware product
 
-<UL><LI><a href="https://github.com/erikw425/Scopo-Digital-Solutions/blob/master/PhotoBombz%20Photobooth.pdf">PhotoBombz Photobooth PowerPoint Slides</a>
+<UL><LI><a href="https://drive.google.com/file/d/1CMC_gP-tdF78kBF-fWiZVMFXwEKrwYOq/view?usp=sharing">Microsoft Excel Financial Model</a>
 </UL>
   
-<img src="Microsoft Excel - Bluffing and Bluff Catching Model.png"
-     alt="Microsfot Excel - Bluffing and Bluff Catching Model"
+<img src="Financial Model Example SNIP.jpg"
+     alt="Financial Model Example SNIP.jpg"
      style="float: left; margin-right: 10px;" />
