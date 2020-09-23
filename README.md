@@ -21,7 +21,7 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 
 # Scopo Digital Solutions
 
-<b> Website Management & Marketing Plan Presentation for 'Tastefully Yours by Jeff'
+<b> Website Management & Marketing Plan Presentation for 'Tastefully Yours by Jeff'</b>
 
 Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langely, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test ans SEO score assesment, I completed te following SWOT Analysis.
 
