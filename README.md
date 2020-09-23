@@ -31,7 +31,7 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
      alt="Tastefully Yours by Jeff SWOT Analysis.jpg"
      style="float: left; margin-right: 10px;" />
 
-* <b>Buyer Persona</b> A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
+* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
 <img src="Tastefully Yours by Jeff Buyer Persona.jpg"
      alt="Tastefully Yours by Jeff Buyer Persona.jpg"
