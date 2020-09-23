@@ -35,5 +35,5 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
      alt="Tastefully Yours by Jeff Buyer Persona.jpg"
      style="float: left; margin-right: 10px;" />
      
-<UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">Website Management & Marketing Plan Presentation</a>
+<UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
