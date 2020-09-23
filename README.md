@@ -18,3 +18,22 @@ Financials model inputs are;
 <img src="Financial Model Example SNIP.jpg"
      alt="Financial Model Example SNIP.jpg"
      style="float: left; margin-right: 10px;" />
+
+# Scopo Digital Solutions - Website Management & Marketing Plan Presentation
+
+Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langely, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test ans SEO score assesment, I completed a SWOT Analysis.
+
+* <b>SWOT Analysis</b> - A strategic planning technique used to assist an organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning.
+
+<img src="SWOT Analysis.jpg"
+     alt="Custom HUD"
+     style="float: left; margin-right: 10px;" />
+
+* <b>Buyer Persona</b> A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
+ 
+<img src="Buyer Persona.jpg"
+     alt="Custom HUD"
+     style="float: left; margin-right: 10px;" />
+     
+<UL><LI><a href="https://drive.google.com/file/d/1CMC_gP-tdF78kBF-fWiZVMFXwEKrwYOq/view?usp=sharing">Microsoft Excel Financial Model</a>
+</UL>
