@@ -51,3 +51,31 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <img src="Main Street Animal Hospital Buyer Persona.jpg"
      alt="Main Street Animal Hospital Buyer Persona.jpg"
      style="float: left; margin-right: 10px;" />
+
+# Product School Project - Wireframing Examples
+
+<b>Product Brief: Business to Business (B2B) New Feature Launch</b>
+  
+You are a product manager at Cloud Freeze
+
+1 — A cloud infrastructure company that allows creators, governments, and enterprises to build products of the future with state of the art computing engines to scale. This company has a multi-tier pricing model for individuals working on their passion project, small teams working in the garage or apartment, enterprises with development team distributed across the world. Cloud Freeze offers a publishing platform and community that allows anyone to share their thoughts, connect with others, and discover interesting discussions on a variety of topics. Series A Venture-backed by prominent angel investors and a VC company based in Austin, Texas and growing quickly, Cloud Freeze has over 2000 companies and entrepreneurs recurring subscriptions every month. Cloud Freeze will be providing government data for use. Assume as part of their Privacy Policy and Terms all data stored will be anonymous. You've been hard at work on Synergy, a new product on the Cloud Freeze technology stack allows developers to leverage public government data (state and local) to dynamically build and distribute computing resources in areas of need. Cloud Freeze has the technology in place; however the team needs to reengineer how to deploy these services in areas in need in under 24 hours. Currently, the turnaround time to build new infrastructure takes about 14 days. Think about if you're an urban planner and wanted to build high rise condos, schools, restaurants, and coffee shops in a developing area, The services will be allotted based on needs of the apps/communities and not based on location.
+
+The core infrastructure build of the platform is complete but states and cities will have different needs. The challenge is to understand how to decouple your product to serve specific geographical areas. Some of the challenges could include but not be limited to telecommunications, payments, and medical technology. Your challenge is to create a strategy and execution for Synergy to leverage the existing capabilities and tailor for specific business cases.
+
+<b>Login and Signup Wireframe</b>
+
+<img src="Main Street Animal Hospital Buyer Persona.jpg"
+     alt="Main Street Animal Hospital Buyer Persona.jpg"
+     style="float: left; margin-right: 10px;" />
+
+<b>Profile Wireframe</b>
+
+<img src="Main Street Animal Hospital Buyer Persona.jpg"
+     alt="Main Street Animal Hospital Buyer Persona.jpg"
+     style="float: left; margin-right: 10px;" />
+     
+<b>Contract Support Wireframe</b>
+
+<img src="Main Street Animal Hospital Buyer Persona.jpg"
+     alt="Main Street Animal Hospital Buyer Persona.jpg"
+     style="float: left; margin-right: 10px;" />   
