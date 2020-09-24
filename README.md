@@ -52,6 +52,9 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
      alt="Main Street Animal Hospital Buyer Persona.jpg"
      style="float: left; margin-right: 10px;" />
 
+<img src="Product School Logo.jpg" 
+     alt="Product School Log.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
 # Product School Project - Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
