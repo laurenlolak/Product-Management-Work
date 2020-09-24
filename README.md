@@ -62,20 +62,26 @@ You are a product manager at Cloud Freeze
 
 The core infrastructure build of the platform is complete but states and cities will have different needs. The challenge is to understand how to decouple your product to serve specific geographical areas. Some of the challenges could include but not be limited to telecommunications, payments, and medical technology. Your challenge is to create a strategy and execution for Synergy to leverage the existing capabilities and tailor for specific business cases.
 
-<b>Login and Signup Wireframe</b>
+<b>Login and Signup Balsamiq Wireframe</b>
 
-<img src="Main Street Animal Hospital Buyer Persona.jpg"
-     alt="Main Street Animal Hospital Buyer Persona.jpg"
+<img src="Login Wireframe Pt 1.jpg"
+     alt="Login Wireframe Pt 1.jpg"
      style="float: left; margin-right: 10px;" />
-
-<b>Profile Wireframe</b>
-
-<img src="Main Street Animal Hospital Buyer Persona.jpg"
-     alt="Main Street Animal Hospital Buyer Persona.jpg"
+<img src="Login Wireframe Pt 2.jpg"
+     alt="Login Wireframe Pt 2.jpg"
+     style="float: left; margin-right: 10px;" />
+<img src="Login Wireframe Pt 3.jpg"
+     alt="Login Wireframe Pt 3.jpg"
      style="float: left; margin-right: 10px;" />
      
-<b>Contract Support Wireframe</b>
+<b>Profile Balsamiq Wireframe</b>
 
-<img src="Main Street Animal Hospital Buyer Persona.jpg"
-     alt="Main Street Animal Hospital Buyer Persona.jpg"
+<img src="Profile Wireframe.jpg"
+     alt="Profile Wireframe.jpg"
+     style="float: left; margin-right: 10px;" />
+     
+<b>Contract Support Balsamiq Wireframe</b>
+
+<img src="Contract Support Wireframe.jpg"
+     alt="Contract Support Wireframe.jpg"
      style="float: left; margin-right: 10px;" />   
