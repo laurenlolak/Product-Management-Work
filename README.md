@@ -69,13 +69,13 @@ The core infrastructure build of the platform is complete but states and cities 
 
 <img src="Login Wireframe Pt 1.jpg"
      alt="Login Wireframe Pt 1.jpg"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
 <img src="Login Wireframe Pt 2.jpg"
      alt="Login Wireframe Pt 2.jpg"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
 <img src="Login Wireframe Pt 3.jpg"
      alt="Login Wireframe Pt 3.jpg"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
      
 <b>Profile Balsamiq Wireframe</b>
 
