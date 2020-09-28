@@ -68,6 +68,7 @@ A kanban board is an Agile project management tool designed to help visualize wo
      alt="Scopo Digital Kanban Board.jpg"
      style="float: left; margin-right: 10px;" />
      
+     
 <img src="Product School Logo.jpg" 
      alt="Product School Logo.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
