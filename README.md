@@ -58,15 +58,19 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
 
+
+# Kanban Board     
+<b>Scopo Digital Solutions - Kanban Board<b>
+  
+A kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
+  
+<img src="Scopo Trello SNIP.jpg"
+     alt="Scopo Digital Kanban Board.jpg"
+     style="float: left; margin-right: 10px;" />
+     
 <img src="Product School Logo.jpg" 
      alt="Product School Logo.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
-     
-<b>Scopo Digital Solutions - Kanban Board<b>
-<img src="Main Street Animal Hospital Buyer Persona.jpg"
-     alt="Main Street Animal Hospital Buyer Persona.jpg"
-     style="float: left; margin-right: 10px;" />
-     
 # Product School Project - Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
