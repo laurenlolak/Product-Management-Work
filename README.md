@@ -54,10 +54,19 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <img src="Main Street Animal Hospital Buyer Persona.jpg"
      alt="Main Street Animal Hospital Buyer Persona.jpg"
      style="float: left; margin-right: 10px;" />
+     
+<UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
+</UL>
 
 <img src="Product School Logo.jpg" 
      alt="Product School Logo.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
+     
+<b>Scopo Digital Solutions - Kanban Board<b>
+<img src="Main Street Animal Hospital Buyer Persona.jpg"
+     alt="Main Street Animal Hospital Buyer Persona.jpg"
+     style="float: left; margin-right: 10px;" />
+     
 # Product School Project - Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
