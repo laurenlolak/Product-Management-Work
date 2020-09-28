@@ -3,7 +3,7 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 
 # Microsoft Excel Financial Model Example
 
-* <b>Hardware Product Financial Model</b> - Used to calclualte return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
+<b>Hardware Product Financial Model</b> - Used to calclualte return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
   Financials model inputs are;
 - Capital cost to deploy a hardware product
@@ -55,7 +55,7 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
      alt="Main Street Animal Hospital Buyer Persona.jpg"
      style="float: left; margin-right: 10px;" />
      
-<UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
+<UL><LI><a href="https://drive.google.com/file/d/15-2ybyYivAPlfje1mvg5q-VE1Ywx7z2h/view?usp=sharing">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
 
 
