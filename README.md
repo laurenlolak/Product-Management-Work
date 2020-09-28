@@ -25,7 +25,7 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 
 # Scopo Digital - Website Management & Marketing Plan Presentation
 
-<b>Presentation for 'Tastefully Yours by Jeff'<b>
+<b>Presentation for 'Tastefully Yours by Jeff'</b>
 
 Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langely, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test ans SEO score assesment, I completed te following SWOT Analysis.
 
@@ -45,7 +45,7 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
 </UL>
     
 # Scopo Digital - Website Management & Marketing Plan Presentation
-<b>Presenation for 'Main Street Animal Hospital'<b>
+<b>Presenation for 'Main Street Animal Hospital'</b>
 
 Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and catss. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
 
@@ -60,7 +60,7 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 
 
 # Kanban Board     
-<b>Scopo Digital Solutions - Kanban Board<b>
+<b>Scopo Digital Solutions - Kanban Board</b>
   
 A kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
   
