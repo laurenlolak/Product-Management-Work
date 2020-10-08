@@ -69,8 +69,10 @@ A kanban board is an Agile project management tool designed to help visualize wo
      style="float: left; margin-right: 10px;" />
      
 # Social Media - Thanksgiving Marketing Campaign
+
+This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Yours by Jeff. The primary goal of the marketing campaign was to create awareness and interest in the Thanksgiving Meal Packages. The secondary goal was to enhance the posted imagry, with the long-term objective of drawing in new followers. 
+
 <b>Instagram Before & After</b>
-This Thanksgiving Campaign was for Scopo client, Café and Caterer Tastfully Yours by Jeff. The primary goal of the marketing campaign was to create awareness and interest in the Thanksgiving Meal Packages. The secondary goal was to enhance the posted imagry, with the long-term objective of drawing in new followers. 
 
 <img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
      alt="Instagram Profile - Before & After.jpg" 
