@@ -72,7 +72,7 @@ A kanban board is an Agile project management tool designed to help visualize wo
 
 This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Yours by Jeff. 
 
-SMART Goal: During October 2nd to October 8th, we will run an Instagram Thanksgiving Campaign with 9 posts that will increase followers by 1-2% and interest in the Thanksgiving Meal Packages by 3-5%. 
+<b>SMART Goal:</b> During October 2nd to October 8th, we will run an Instagram Thanksgiving Campaign with 9 posts that will increase followers by 1-2% and interest in the Thanksgiving Meal Packages by 3-5%. 
 
 <UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Tastefully Yours by Jeff Instagram</a>
 </UL>
