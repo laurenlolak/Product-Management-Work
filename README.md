@@ -72,18 +72,24 @@ A kanban board is an Agile project management tool designed to help visualize wo
 <b>Instagram Before & After</b>
 This Thanksgiving Campaign was for Scopo client, Café and Caterer Tastfully Yours by Jeff. The primary goal of the marketing campaign was to create awareness and interest in the Thanksgiving Meal Packages. The secondary goal was to enhance the posted imagry, with the long-term objective of drawing in new followers. 
 
-<img src="Product School Logo.jpg" 
-     alt="Product School Logo.jpg" 
+<img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
+     alt="Instagram Profile - Before & After.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
 <b>Instagram Post Mock Up's</b> 
-<img src="Product School Logo.jpg" 
-     alt="Product School Logo.jpg" 
+
+<img src="Tastefully Yours by Jeff - Posts 1-3.jpg" 
+     alt="Instagram Posts 1-3.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<img src="Product School Logo.jpg" 
-     alt="Product School Logo.jpg" 
+<img src="Tastefully Yours by Jeff - Posts 4-6.jpg" 
+     alt="Instagram Posts 4-6.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
+     
+<img src="Tastefully Yours by Jeff - Posts 7-9.jpg" 
+     alt="Instagram Posts 7-9.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
 # Product School Project - Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
