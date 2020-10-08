@@ -68,6 +68,18 @@ A kanban board is an Agile project management tool designed to help visualize wo
      alt="Scopo Digital Kanban Board.jpg"
      style="float: left; margin-right: 10px;" />
      
+# Social Media - Thanksgiving Marketing Campaign
+<b>Instagram Before & After</b>
+This Thanksgiving Campaign was for Scopo client, Café and Caterer Tastfully Yours by Jeff. The primary goal of the marketing campaign was to create awareness and interest in the Thanksgiving Meal Packages. The secondary goal was to enhance the posted imagry, with the long-term objective of drawing in new followers. 
+
+<img src="Product School Logo.jpg" 
+     alt="Product School Logo.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+<b>Instagram Post Mock Up's</b> 
+<img src="Product School Logo.jpg" 
+     alt="Product School Logo.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
      
 <img src="Product School Logo.jpg" 
      alt="Product School Logo.jpg" 
