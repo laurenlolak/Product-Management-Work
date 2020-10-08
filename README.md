@@ -92,6 +92,9 @@ This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Your
      alt="Instagram Posts 7-9.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
+<img src="Product School Logo.jpg" 
+      style="float: left; margin-right: 0.5px;" />      
+     
 # Product School Project - Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
