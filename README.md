@@ -68,7 +68,8 @@ A kanban board is an Agile project management tool designed to help visualize wo
      alt="Scopo Digital Kanban Board.jpg"
      style="float: left; margin-right: 10px;" />
 
-# Instagram & Facebook - Halloween Event Marketing Campaign
+# Hootsuite - Scheduling Social Media Posts
+<b>Halloween Event Marketing Campaign</b>
 
 This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occuring October 30th, 31st and Novemeber 1st 2020. The post's were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. For Facebook, the window for B2C is between 4-5pm daily. For Instragram the times vary. The Instagram posts were set up at the below optimal time of day;
 - Monday: 11am
@@ -86,7 +87,7 @@ This Halloween Campaign was created for a Small B2C Events company, hosting a un
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
 
-# Social Media - Thanksgiving Marketing Campaign
+# Instagram & Facebook - Thanksgiving Marketing Campaign
 
 This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Yours by Jeff. 
 
