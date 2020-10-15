@@ -79,8 +79,11 @@ This Halloween Campaign was created for a Small B2C Events company, hosting a un
 - Saturday: 9am, 10am and 11am
 - Sunday: 8am
 
-<img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
-     alt="Instagram Profile - Before & After.jpg" 
+<img src="Hootsuite - Sched Social Media Posts 1.jpg" 
+     alt="Hootsuite Scheduled Social Media Posts" 
+     style="float: left; margin-right: 0.5px;" /> 
+<img src="Hootsuite - Sched Social Media Posts 2.jpg" 
+     alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
 
 # Social Media - Thanksgiving Marketing Campaign
