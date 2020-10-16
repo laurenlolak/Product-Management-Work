@@ -3,7 +3,7 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 
 # Microsoft Excel Financial Model Example
 
-<b>Hardware Product Financial Model</b> - Used to calclualte return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
+<b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
   Financials model inputs are;
 - Capital cost to deploy a hardware product
@@ -27,7 +27,7 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 
 <b>Presentation for 'Tastefully Yours by Jeff'</b>
 
-Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langely, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test ans SEO score assesment, I completed te following SWOT Analysis.
+Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langley, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test and SEO score assessment, I completed the following SWOT Analysis.
 
 * <b>SWOT Analysis</b> - A strategic planning technique used to assist an organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning.
 
@@ -45,9 +45,9 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
 </UL>
     
 # Scopo Digital - Website Management & Marketing Plan Presentation
-<b>Presenation for 'Main Street Animal Hospital'</b>
+<b>Presentation for 'Main Street Animal Hospital'</b>
 
-Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and catss. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
+Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and cats. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
 
 * <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
