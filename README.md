@@ -23,7 +23,78 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
      alt="Scopo Logo.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
 
-# Scopo Digital - Website Management & Marketing Plan Presentation
+# Hootsuite - Scheduling Social Media Posts
+<b>Halloween Event Marketing Campaign</b>
+
+This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occuring October 30th, 31st and Novemeber 1st 2020. The post's were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. 
+
+For Instragram the times vary. The Instagram posts were set up at the below optimal time of day;
+- Monday: 11am
+- Tuesday: 10am
+- Wednesday: 11am
+- Thursday: 10am
+- Friday: 11am
+- Saturday: 9am, 10am and 11am
+- Sunday: 8am
+
+For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook posts schedule around 12pm. 
+
+<b>Second Week of Campaign</b>
+<img src="Hootsuite - Empty Chest Posts 1.jpg" 
+     alt="Hootsuite Scheduled Social Media Posts" 
+     style="float: left; margin-right: 0.5px;" /> 
+<img src="Hootsuite - Empty Chest Posts 1A.jpg" 
+     alt="Hootsuite Scheduled Social Media Posts" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+<b>Third Week of Campaign</b>     
+<img src="Hootsuite - Empty Chest Posts 2.jpg" 
+     alt="Hootsuite Scheduled Social Media Posts" 
+     style="float: left; margin-right: 0.5px;" /> 
+<img src="Hootsuite - Empty Chest Posts 2A.jpg" 
+     alt="Hootsuite Scheduled Social Media Posts" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+# Kanban Board     
+<b>Scopo Digital Solutions - Kanban Board</b>
+  
+A kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
+  
+<img src="Scopo Trello SNIP.jpg"
+     alt="Scopo Digital Kanban Board.jpg"
+     style="float: left; margin-right: 10px;" />
+     
+# Instagram & Facebook - Thanksgiving Marketing Campaign
+
+This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Yours by Jeff. 
+
+<b>SMART Goal:</b> During October 2nd to October 8th, we will run an Instagram Thanksgiving Campaign with 9 posts that will increase followers by 1-2% and interest in the Thanksgiving Meal Packages by 3-5%. 
+
+<UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Tastefully Yours by Jeff Instagram</a>
+</UL>
+  
+<img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
+     alt="Instagram Profile - Before & After.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+<b>Instagram Post Mock Up's</b> 
+
+<img src="Tastefully Yours by Jeff - Posts 1-3.jpg" 
+     alt="Instagram Posts 1-3.jpg" 
+     style="float: left; margin-right: 0.25px;" /> 
+     
+<img src="Tastefully Yours by Jeff - Posts 4-6.jpg" 
+     alt="Instagram Posts 4-6.jpg" 
+     style="float: left; margin-right: 0.25px;" /> 
+     
+<img src="Tastefully Yours by Jeff - Posts 7-9.jpg" 
+     alt="Instagram Posts 7-9.jpg" 
+     style="float: left; margin-right: 0.25px;" /> 
+     
+<img src="Product School Logo.jpg" 
+      style="float: left; margin-right: 0.25px;" />    
+      
+# Scopo Digital - Website Management & Marketing Plan Presentations
 
 <b>Presentation for 'Tastefully Yours by Jeff'</b>
 
@@ -44,7 +115,6 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
 <UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
     
-# Scopo Digital - Website Management & Marketing Plan Presentation
 <b>Presentation for 'Main Street Animal Hospital'</b>
 
 Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and cats. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
@@ -57,66 +127,7 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
      
 <UL><LI><a href="https://drive.google.com/file/d/15-2ybyYivAPlfje1mvg5q-VE1Ywx7z2h/view?usp=sharing">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
-
-
-# Kanban Board     
-<b>Scopo Digital Solutions - Kanban Board</b>
   
-A kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
-  
-<img src="Scopo Trello SNIP.jpg"
-     alt="Scopo Digital Kanban Board.jpg"
-     style="float: left; margin-right: 10px;" />
-
-# Hootsuite - Scheduling Social Media Posts
-<b>Halloween Event Marketing Campaign</b>
-
-This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occuring October 30th, 31st and Novemeber 1st 2020. The post's were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. For Facebook, the window for B2C is between 4-5pm daily. For Instragram the times vary. The Instagram posts were set up at the below optimal time of day;
-- Monday: 11am
-- Tuesday: 10am
-- Wednesday: 11am
-- Thursday: 10am
-- Friday: 11am
-- Saturday: 9am, 10am and 11am
-- Sunday: 8am
-
-<img src="Hootsuite - Sched Social Media Posts 1.jpg" 
-     alt="Hootsuite Scheduled Social Media Posts" 
-     style="float: left; margin-right: 0.5px;" /> 
-<img src="Hootsuite - Sched Social Media Posts 2.jpg" 
-     alt="Hootsuite Scheduled Social Media Posts" 
-     style="float: left; margin-right: 0.5px;" /> 
-
-# Instagram & Facebook - Thanksgiving Marketing Campaign
-
-This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Yours by Jeff. 
-
-<b>SMART Goal:</b> During October 2nd to October 8th, we will run an Instagram Thanksgiving Campaign with 9 posts that will increase followers by 1-2% and interest in the Thanksgiving Meal Packages by 3-5%. 
-
-<UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Tastefully Yours by Jeff Instagram</a>
-</UL>
-  
-<img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
-     alt="Instagram Profile - Before & After.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
-     
-<b>Instagram Post Mock Up's</b> 
-
-<img src="Tastefully Yours by Jeff - Posts 1-3.jpg" 
-     alt="Instagram Posts 1-3.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
-     
-<img src="Tastefully Yours by Jeff - Posts 4-6.jpg" 
-     alt="Instagram Posts 4-6.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
-     
-<img src="Tastefully Yours by Jeff - Posts 7-9.jpg" 
-     alt="Instagram Posts 7-9.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
-     
-<img src="Product School Logo.jpg" 
-      style="float: left; margin-right: 0.5px;" />      
-     
 # Product School Project - Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
@@ -127,28 +138,28 @@ A cloud infrastructure company that allows creators, governments, and enterprise
 
 The core infrastructure build of the platform is complete but states and cities will have different needs. The challenge is to understand how to decouple your product to serve specific geographical areas. Some of the challenges could include but not be limited to telecommunications, payments, and medical technology. Your challenge is to create a strategy and execution for Synergy to leverage the existing capabilities and tailor for specific business cases.
 
-<b>Login and Signup Balsamiq Wireframe</b>
+<b>Balsamiq Wireframes</b>
 
 In order to reengineer the deplyment of the new feature Synergy, reducing the turnaround from 14 days to under 24 hours, we will be testing a Wizard of Oz MVP. A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will hapen automatically from a customer perspective, it will be managed manually in the background. Below is the proposed wireframe for the Wizard of Oz login and sign up process;
 
 <img src="Login Wireframe Pt 1.jpg"
      alt="Login Wireframe Pt 1.jpg"
-     style="float: left; margin-right: 5px;" />
+     style="float: left; margin-right: 0.5px;" />
 <img src="Login Wireframe Pt 2.jpg"
      alt="Login Wireframe Pt 2.jpg"
-     style="float: left; margin-right: 5px;" />
+     style="float: left; margin-right: 0.5px;" />
 <img src="Login Wireframe Pt 3.jpg"
      alt="Login Wireframe Pt 3.jpg"
-     style="float: left; margin-right: 5px;" />
+     style="float: left; margin-right: 0.5px;" />
      
 <b>Profile Balsamiq Wireframe</b>
 
 <img src="Profile Wireframe.jpg"
      alt="Profile Wireframe.jpg"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right:0.5px;" />
      
 <b>Contract Support Balsamiq Wireframe</b>
 
 <img src="Contract Support Wireframe.jpg"
      alt="Contract Support Wireframe.jpg"
-     style="float: left; margin-right: 10px;" />   
+     style="float: left; margin-right: 0.5px;" />   
