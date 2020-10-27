@@ -166,7 +166,12 @@ How will we measure?
 
 <b>Product Requirements Document</b>
 
+<img src="Cloud Freeze PRD.pdf"
+     alt="Cloud Freeze PRD.pdf"
+     style="float: left; margin-right: 0.5px;" />
+     
 <b>Milestone Roadmap</b>
+
 This section is for high level milestones. Sprints are 2 weeks.
 
 <img src="Milestone Roadmap.jpg"
@@ -174,6 +179,7 @@ This section is for high level milestones. Sprints are 2 weeks.
      style="float: left; margin-right: 0.5px;" />
  
 <b>Wireframing </b>
+
 A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
 <img src="Wireframe Example.jpg"
@@ -184,3 +190,7 @@ A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypo
      style="float: left; margin-right: 0.5px;" />
 
 <b>Go-To-Market Strategy</b>
+
+<img src="Synergy Go-To-Market Strategy.pdf"
+     alt="Synergy Go-To-Market Strategy.pdf"
+     style="float: left; margin-right: 0.5px;" />
