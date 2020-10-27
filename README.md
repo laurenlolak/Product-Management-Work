@@ -59,7 +59,7 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      style="float: left; margin-right: 0.5px;" /> 
      
 <b>Community Outreach and Marketing</b>
-I reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a solo media blog posting by Vancouver is Awesome and featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
+I reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
 
 <UL><LI><a href="https://vancouversun.com/entertainment/local-arts/halloween-events-in-metro-vancouver-in-october-2020">Vancouver Sun 2020 Article</a>
 </UL> 
@@ -70,10 +70,12 @@ I reached out to a variety of bloggers, media outlets, community postings and ma
 
 <UL><LI><a href="https://www.vancouverisawesome.com/events-and-entertainment/halloween-haunted-adventure-abbotsford-2020-1946121">Vancouver is Awesome 2020 Article</a>
 </UL> 
+The Halloween Event was featured in a solo media blog posting by Vancouver is Awesome.
   
 <img src="Vancouver Is Awesome Image.jpg" 
      alt="Vancouver Is Awesome Image.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
+     style="float: left; margin-right: 0.25px;" /> 
+  
   
 # Kanban Board     
 <b>Scopo Digital Solutions - Kanban Board</b>
