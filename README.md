@@ -58,7 +58,7 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<b>Community Outreach and Marketing</b>
+# Community Outreach and Marketing
 
 I reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
 
@@ -79,20 +79,17 @@ The Halloween Event was also featured in a solo media blog posting by Vancouver 
      style="float: left; margin-right: 0.5px;" /> 
   
   
-# Kanban Board     
-<b>Scopo Digital Solutions - Kanban Board</b>
+# Kanban Board    
   
-A kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
+A Kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
   
 <img src="Scopo Trello SNIP.jpg"
      alt="Scopo Digital Kanban Board.jpg"
      style="float: left; margin-right: 10px;" />
      
-# Instagram & Facebook - Thanksgiving Marketing Campaign
+# Instagram & Facebook Revamp - Thanksgiving Marketing Campaign
 
-This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. 
-
-<b>SMART Goal:</b> During October 2nd to October 8th, we will run an Instagram Thanksgiving Campaign with 9 posts that will increase followers by 1-2% and interest in the Thanksgiving Meal Packages by 3-5%. 
+This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
 <UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Tastefully Yours by Jeff Instagram</a>
 </UL>
@@ -183,13 +180,13 @@ How will we measure?
 
 <b>MVP:</b> The creation of a new automation sign up process for Synergy, using a Wizard of Oz MVP, will allow Cloud Freeze to deploy the feature in under 4 hours, increase operational efficiency, reduce human error, lower operating costs, and create a higher return on investment for Synergy.
 
-<b>Product Requirements Document</b>
+# Product Requirements Document
 
 <img src="Cloud Freeze PRD.pdf"
      alt="Cloud Freeze PRD.pdf"
      style="float: left; margin-right: 0.5px;" />
      
-<b>Milestone Roadmap</b>
+# Milestone Roadmap
 
 This section is for high level milestones. Sprints are 2 weeks.
 
@@ -197,7 +194,7 @@ This section is for high level milestones. Sprints are 2 weeks.
      alt="Milestone Roadmap.jpg"
      style="float: left; margin-right: 0.5px;" />
  
-<b>Balsamiq Wireframes</b>
+# Balsamiq Wireframes
 
 A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
@@ -208,7 +205,7 @@ A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypo
      alt="Wireframe Example 2.jpg"
      style="float: left; margin-right: 0.5px;" />
 
-<b>Go-To-Market Strategy</b>
+# Go-To-Market Strategy
 
 <img src="Synergy Go-To-Market Strategy.pdf"
      alt="Synergy Go-To-Market Strategy.pdf"
