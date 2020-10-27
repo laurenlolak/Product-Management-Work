@@ -58,6 +58,23 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
+<b>Community Outreach and Marketing</b>
+I reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a solo media blog posting by Vancouver is Awesome and featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
+
+<UL><LI><a href="https://vancouversun.com/entertainment/local-arts/halloween-events-in-metro-vancouver-in-october-2020">Vancouver Sun 2020 Article</a>
+</UL> 
+  
+<img src="Vancouver Sun Image.jpg" 
+     alt="Vancouver Sun Image.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+
+<UL><LI><a href="https://www.vancouverisawesome.com/events-and-entertainment/halloween-haunted-adventure-abbotsford-2020-1946121">Vancouver is Awesome 2020 Article</a>
+</UL> 
+  
+<img src="Vancouver Is Awesome Image.jpg" 
+     alt="Vancouver Is Awesome Image.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+  
 # Kanban Board     
 <b>Scopo Digital Solutions - Kanban Board</b>
   
@@ -82,7 +99,7 @@ This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully 
 
 <b>Community Outreach and Marketing</b>
 
-I reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters like the Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, The Flying Pig etc.
+I reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
 
 <UL><LI><a href="https://foodgressing.com/thanksgiving-vancouver-2020/">Foodgressing Thanksgiving Vancouver 2020 Article</a>
 </UL> 
