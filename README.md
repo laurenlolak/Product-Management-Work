@@ -37,7 +37,7 @@ For Instragram the times vary. The Instagram posts were set up at the below opti
 - Saturday: 9am, 10am and 11am
 - Sunday: 8am
 
-For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook posts schedule around 12pm. 
+For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook schedule to post between 11am and 12pm. 
 
 <b>Second Week of Campaign</b>
 <img src="Hootsuite - Empty Chest Posts 1.jpg" 
@@ -48,10 +48,7 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      style="float: left; margin-right: 0.5px;" /> 
      
 <b>Third Week of Campaign</b>     
-<img src="Hootsuite - Empty Chest Posts 2.jpg" 
-     alt="Hootsuite Scheduled Social Media Posts" 
-     style="float: left; margin-right: 0.5px;" /> 
-<img src="Hootsuite - Empty Chest Posts 2A.jpg" 
+<img src="Hootsuite - Empty Chest Posts 3A.jpg.jpg" 
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
