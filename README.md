@@ -1,5 +1,5 @@
 # Work-Repository
-Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solutions. This is my Product Management work repository
+Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solutions. This is my Product Management work repository.
 
 # Microsoft Excel Financial Model Example
 
@@ -26,9 +26,13 @@ Hi, I'm Lauren. A Product expert with 12+ years in infrastructure and tech solut
 # Hootsuite - Scheduling Social Media Posts
 <b>Halloween Event Marketing Campaign</b>
 
-This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occuring October 30th, 31st and Novemeber 1st 2020. The post's were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. 
+This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020.The strategy was;
+-	Set clear expectations regarding the customer experience during the event.
+-	Write a compelling narrative that creates interest by pulling the reader into the storyline.
+-	Product positioning, highlighting the unique aspects to differentiate the event in comparison to competing Halloween events such as PNE’s Fright Nights. 
 
-For Instragram the times vary. The Instagram posts were set up at the below optimal time of day;
+The posts were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. For Instagram the times vary. The Instagram posts were set up at the below optimal time of day;
+
 - Monday: 11am
 - Tuesday: 10am
 - Wednesday: 11am
@@ -63,7 +67,7 @@ A kanban board is an Agile project management tool designed to help visualize wo
      
 # Instagram & Facebook - Thanksgiving Marketing Campaign
 
-This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Yours by Jeff. 
+This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. 
 
 <b>SMART Goal:</b> During October 2nd to October 8th, we will run an Instagram Thanksgiving Campaign with 9 posts that will increase followers by 1-2% and interest in the Thanksgiving Meal Packages by 3-5%. 
 
@@ -95,7 +99,15 @@ This Thanksgiving Campaign was forScopo client, Café and Caterer Tastfully Your
 
 <b>Presentation for 'Tastefully Yours by Jeff'</b>
 
-Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company based in Langley, BC. Owner Jeff is seeking to modernize the look of his website, update his menus and is seeking a company to handle his social media. The Tastefully Yours website was created in 2016, is not currently being maintained and does not allow for viewing of the administrator dashboard. The editor account was created for Jeff without administrative permissions. After completion of basic website structure check, drag test and SEO score assessment, I completed the following SWOT Analysis.
+This presentation I created for a business owner in the food and beverage industry based in Langley, BC.  I used a combination of food analogies and statistics to break down the technical concepts of the following;
+
+-	Why website maintenance is important
+-	Why content matters
+-	Why loading speeds matter
+-	The importance of website security
+-	How SEO works
+
+After completion of a basic website structure check, drag test, SEO score assessment, and market research I created the following Buyer Persona and SWOT Analysis;
 
 * <b>SWOT Analysis</b> - A strategic planning technique used to assist an organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning.
 
@@ -103,7 +115,7 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
      alt="Tastefully Yours by Jeff SWOT Analysis.jpg"
      style="float: left; margin-right: 10px;" />
 
-* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
+* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
 <img src="Tastefully Yours by Jeff Buyer Persona.jpg"
      alt="Tastefully Yours by Jeff Buyer Persona.jpg"
@@ -117,7 +129,7 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
 
 Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and cats. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
 
-* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with  market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
+* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
 <img src="Main Street Animal Hospital Buyer Persona.jpg"
      alt="Main Street Animal Hospital Buyer Persona.jpg"
@@ -136,7 +148,7 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 
 <b>MVP:</b> The creation of a new automation sign up process for Synergy, using a Wizard of Oz MVP, will allow Cloud Freeze to deploy the feature in under 4 hours, increase operational efficiency, reduce human error, lower operating costs, and create a higher return on investment for Synergy.
 
-<b>Details:</b> A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will hapen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
+<b>Details:</b> A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
 <img src="Wireframe Example.jpg"
      alt="Wireframe Example.jpg"
