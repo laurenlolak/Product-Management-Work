@@ -102,7 +102,7 @@ A Kanban board is an Agile project management tool designed to help visualize wo
 
 This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
-<UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Tastefully Yours by Jeff Instagram</a>
+<UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Instagram Account: Tastefully Yours by Jeff</a>
 </UL>
   
 <img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
@@ -181,9 +181,8 @@ How will we measure?
 
 # Product Requirements Document
 
-<img src="Cloud Freeze PRD.pdf"
-     alt="Cloud Freeze PRD.pdf"
-     style="float: left; margin-right: 0.5px;" />
+<UL><LI><a href="https://drive.google.com/file/d/1xcsmtWeVqYk86pazAq4WZcGQWsGeWMau/view?usp=sharing">PDF: Product Requirements Document</a>
+</UL>
      
 # Milestone Roadmap
 
@@ -206,6 +205,5 @@ A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypo
 
 # Go-To-Market Strategy
 
-<img src="Synergy Go-To-Market Strategy.pdf"
-     alt="Synergy Go-To-Market Strategy.pdf"
-     style="float: left; margin-right: 0.5px;" />
+<UL><LI><a href="https://drive.google.com/file/d/1r1vmjQpOH9M5atoipYA_Xqq2yPHurigW/view?usp=sharing">PDF: Go-To-Market Strategy Document</a>
+</UL>
