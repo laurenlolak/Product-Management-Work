@@ -98,7 +98,7 @@ A Kanban board is an Agile project management tool designed to help visualize wo
      alt="Scopo Digital Kanban Board.jpg"
      style="float: left; margin-right: 10px;" />
      
-# Instagram & Facebook Revamp - Thanksgiving Marketing Campaign
+# Instagram & Facebook Revamp
 
 This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
