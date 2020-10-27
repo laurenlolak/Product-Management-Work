@@ -22,6 +22,8 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 <img src="Scopo Logo.jpg" 
      alt="Scopo Logo.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
+     
+# Scopo Digital Solutions
 
 # Hootsuite - Scheduling Social Media Posts
 <b>Halloween Event Marketing Campaign</b>
@@ -111,11 +113,9 @@ I reached out to a variety of bloggers, media outlets, community postings and ma
 <img src="Foodgressing Image.jpg" 
      alt="Foodgressing Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
-     
-<img src="Product School Logo.jpg" 
-      style="float: left; margin-right: 0.25px;" />    
+
       
-# Scopo Digital - Website Management & Marketing Plan Presentations
+# Website Management & Marketing Plan Presentations
 
 <b>Presentation for 'Tastefully Yours by Jeff'</b>
 
@@ -157,8 +157,11 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
      
 <UL><LI><a href="https://drive.google.com/file/d/15-2ybyYivAPlfje1mvg5q-VE1Ywx7z2h/view?usp=sharing">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
+
+<img src="Product School Logo.jpg" 
+      style="float: left; margin-right: 0.25px;" />    
   
-# Product School Project - Balsamiq Wireframing Examples
+# Product School Project
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
 
@@ -196,7 +199,7 @@ This section is for high level milestones. Sprints are 2 weeks.
      alt="Milestone Roadmap.jpg"
      style="float: left; margin-right: 0.5px;" />
  
-<b>Wireframes</b>
+<b>Balsamiq Wireframes</b>
 
 A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
