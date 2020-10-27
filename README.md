@@ -59,6 +59,7 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      style="float: left; margin-right: 0.5px;" /> 
      
 # Community Outreach and Marketing
+<b>The Empty Chest - Halloween Event</b>
 
 I reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
 
@@ -77,8 +78,18 @@ The Halloween Event was also featured in a solo media blog posting by Vancouver 
 <img src="Vancouver Is Awesome Image.jpg" 
      alt="Vancouver Is Awesome Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
+     
+<b>Tastefully Yours by Jeff - Thanksgiving Meal Package</b>  
+
+I reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
+
+<UL><LI><a href="https://foodgressing.com/thanksgiving-vancouver-2020/">Foodgressing Thanksgiving Vancouver 2020 Article</a>
+</UL> 
   
-  
+<img src="Foodgressing Image.jpg" 
+     alt="Foodgressing Image.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
 # Kanban Board    
   
 A Kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
@@ -96,19 +107,7 @@ This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully 
   
 <img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
      alt="Instagram Profile - Before & After.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
-
-<b>Community Outreach and Marketing</b>
-
-I reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
-
-<UL><LI><a href="https://foodgressing.com/thanksgiving-vancouver-2020/">Foodgressing Thanksgiving Vancouver 2020 Article</a>
-</UL> 
-  
-<img src="Foodgressing Image.jpg" 
-     alt="Foodgressing Image.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
-
+     style="float: left; margin-right: 0.5px;" />
       
 # Website Management & Marketing Plan Presentations
 
