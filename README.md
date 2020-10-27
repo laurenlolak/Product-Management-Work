@@ -134,10 +134,12 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
 
 <b>Objective:</b> The teams objective was to reengineer how to deploy the feature in under 4 hours. 
+
 <b>Hypothesis:</b> The creation of a new automation sign up process, will result in deployment time of under 24 hours. 
+
 <b>MVP:</b> The creation of a new automation sign up process for Synergy, using a Wizard of Oz MVP, will allow Cloud Freeze to deploy the feature in under 4 hours, increase operational efficiency, reduce human error, lower operating costs, and create a higher return on investment for Synergy.
 
-<b>Deatils:</b> A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will hapen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
+<b>Details:</b> A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will hapen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
 <img src="Wireframe Example.jpg"
      alt="Wireframe Example.jpg"
