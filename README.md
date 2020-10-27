@@ -147,3 +147,9 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <img src="Wireframe Example 2.jpg"
      alt="Wireframe Example 2.jpg"
      style="float: left; margin-right: 0.5px;" />
+
+<b>Milestone Roadmap</b>
+
+<img src="Milestone Roadmap.jpg"
+     alt="Milestone Roadmap.jpg"
+     style="float: left; margin-right: 0.5px;" />
