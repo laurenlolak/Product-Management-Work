@@ -79,20 +79,17 @@ This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully 
 <img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
      alt="Instagram Profile - Before & After.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
-     
-<b>Instagram Post Mock Up's</b> 
 
-<img src="Tastefully Yours by Jeff - Posts 1-3.jpg" 
-     alt="Instagram Posts 1-3.jpg" 
-     style="float: left; margin-right: 0.25px;" /> 
-     
-<img src="Tastefully Yours by Jeff - Posts 4-6.jpg" 
-     alt="Instagram Posts 4-6.jpg" 
-     style="float: left; margin-right: 0.25px;" /> 
-     
-<img src="Tastefully Yours by Jeff - Posts 7-9.jpg" 
-     alt="Instagram Posts 7-9.jpg" 
-     style="float: left; margin-right: 0.25px;" /> 
+<b>Community Outreach and Marketing</b>
+
+I reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters like the Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, The Flying Pig etc.
+
+<UL><LI><a href="https://foodgressing.com/thanksgiving-vancouver-2020/">Foodgressing Thanksgiving Vancouver 2020 Article</a>
+</UL> 
+  
+<img src="Foodgressing Image.jpg" 
+     alt="Foodgressing Image.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
      
 <img src="Product School Logo.jpg" 
       style="float: left; margin-right: 0.25px;" />    
@@ -178,7 +175,7 @@ This section is for high level milestones. Sprints are 2 weeks.
      alt="Milestone Roadmap.jpg"
      style="float: left; margin-right: 0.5px;" />
  
-<b>Wireframing </b>
+<b>Wireframes</b>
 
 A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
