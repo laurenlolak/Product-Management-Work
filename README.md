@@ -64,8 +64,8 @@ I reached out to a variety of bloggers, media outlets, community postings and ma
 <UL><LI><a href="https://vancouversun.com/entertainment/local-arts/halloween-events-in-metro-vancouver-in-october-2020">Vancouver Sun 2020 Article</a>
 </UL> 
   
-<img src="Vancouver Sun Image.jpg" 
-     alt="Vancouver Sun Image.jpg" 
+<img src="Vancouver Sun Image 2.jpg" 
+     alt="Vancouver Sun Image 2.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
 
 <UL><LI><a href="https://www.vancouverisawesome.com/events-and-entertainment/halloween-haunted-adventure-abbotsford-2020-1946121">Vancouver is Awesome 2020 Article</a>
@@ -74,7 +74,7 @@ The Halloween Event was featured in a solo media blog posting by Vancouver is Aw
   
 <img src="Vancouver Is Awesome Image.jpg" 
      alt="Vancouver Is Awesome Image.jpg" 
-     style="float: left; margin-right: 0.25px;" /> 
+     style="float: left; margin-right: 0.5px;" /> 
   
   
 # Kanban Board     
