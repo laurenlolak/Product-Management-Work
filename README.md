@@ -64,8 +64,8 @@ I reached out to a variety of bloggers, media outlets, community postings and ma
 <UL><LI><a href="https://vancouversun.com/entertainment/local-arts/halloween-events-in-metro-vancouver-in-october-2020">Vancouver Sun 2020 Article</a>
 </UL> 
   
-<img src="Vancouver Sun Image 2.jpg" 
-     alt="Vancouver Sun Image 2.jpg" 
+<img src="Vancouver Sun Image 3.jpg" 
+     alt="Vancouver Sun Image 3.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
 
 <UL><LI><a href="https://www.vancouverisawesome.com/events-and-entertainment/halloween-haunted-adventure-abbotsford-2020-1946121">Vancouver is Awesome 2020 Article</a>
