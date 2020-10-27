@@ -44,6 +44,7 @@ The posts were scheduled in advance via the Hootsuite publisher function. Postin
 For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook schedule to post between 11am and 12pm. 
 
 <b>Second Week of Campaign</b>
+
 <img src="Hootsuite - Empty Chest Posts 1.jpg" 
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
@@ -51,7 +52,8 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<b>Third Week of Campaign</b>     
+<b>Third Week of Campaign</b>    
+
 <img src="Hootsuite - Empty Chest Posts 3A.jpg" 
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
@@ -109,13 +111,13 @@ This presentation I created for a business owner in the food and beverage indust
 
 After completion of a basic website structure check, drag test, SEO score assessment, and market research I created the following Buyer Persona and SWOT Analysis;
 
-* <b>SWOT Analysis</b> - A strategic planning technique used to assist an organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning.
+<b>SWOT Analysis</b> - A strategic planning technique used to assist an organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning.
 
 <img src="Tastefully Yours by Jeff SWOT Analysis.jpg"
      alt="Tastefully Yours by Jeff SWOT Analysis.jpg"
      style="float: left; margin-right: 10px;" />
 
-* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
+<b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
 <img src="Tastefully Yours by Jeff Buyer Persona.jpg"
      alt="Tastefully Yours by Jeff Buyer Persona.jpg"
@@ -129,7 +131,7 @@ After completion of a basic website structure check, drag test, SEO score assess
 
 Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and cats. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
 
-* <b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
+<b>Buyer Persona</b> - A Buyer Persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas in combination with market segmentation, where the qualitative personas are constructed to be representative of specific user segments.
  
 <img src="Main Street Animal Hospital Buyer Persona.jpg"
      alt="Main Street Animal Hospital Buyer Persona.jpg"
@@ -142,13 +144,37 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
 
-<b>Objective:</b> The teams objective was to reengineer how to deploy the feature in under 4 hours. 
+Cloud Freeze, is a cloud infrastructure company. A new feature launch, branded Synergy, allows developers to leverage demographic public government data (state and local). Cloud Freeze has the technology in place. The team needs to reengineer how to deploy these services in under 24 hours.
+
+<b>Objective:</b> To reengineer how to deploy the feature in under 24 hours. 
+
+<b>Metric #1: Increase Interest</b>
+How will we measure?
+- Average session length
+- Top exit page
+- Pages per Session
+
+<b>Metric #2: Increase Adoption</b>
+How will we measure?
+- Number of existing Cloud Freeze users who sign up for Synergy
+- Number of new account creations
+- Number of Trial Purchases
 
 <b>Hypothesis:</b> The creation of a new automation sign up process, will result in deployment time of under 24 hours. 
 
 <b>MVP:</b> The creation of a new automation sign up process for Synergy, using a Wizard of Oz MVP, will allow Cloud Freeze to deploy the feature in under 4 hours, increase operational efficiency, reduce human error, lower operating costs, and create a higher return on investment for Synergy.
 
-<b>Details:</b> A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
+<b>Product Requirements Document</b>
+
+<b>Milestone Roadmap</b>
+This section is for high level milestones. Sprints are 2 weeks.
+
+<img src="Milestone Roadmap.jpg"
+     alt="Milestone Roadmap.jpg"
+     style="float: left; margin-right: 0.5px;" />
+ 
+<b>Wireframing </b>
+A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
 <img src="Wireframe Example.jpg"
      alt="Wireframe Example.jpg"
@@ -157,8 +183,4 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
      alt="Wireframe Example 2.jpg"
      style="float: left; margin-right: 0.5px;" />
 
-<b>Milestone Roadmap</b>
-
-<img src="Milestone Roadmap.jpg"
-     alt="Milestone Roadmap.jpg"
-     style="float: left; margin-right: 0.5px;" />
+<b>Go-To-Market Strategy</b>
