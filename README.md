@@ -48,7 +48,7 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      style="float: left; margin-right: 0.5px;" /> 
      
 <b>Third Week of Campaign</b>     
-<img src="Hootsuite - Empty Chest Posts 3A.jpg.jpg" 
+<img src="Hootsuite - Empty Chest Posts 3A.jpg" 
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
