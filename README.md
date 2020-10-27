@@ -115,6 +115,7 @@ Presentation created for Tastefully Yours by Jeff, a Cafe and Catering company b
 <UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
     
+    
 <b>Presentation for 'Main Street Animal Hospital'</b>
 
 Presentation was created for Main Street Animal Hospital, a veterinary clinic that provides preventive care, diagnostic work and treatment to dogs and cats. The presentation was created as a jumping off point to assess the company's goals, vision, web maintenance and marketing strategy.
@@ -128,38 +129,16 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <UL><LI><a href="https://drive.google.com/file/d/15-2ybyYivAPlfje1mvg5q-VE1Ywx7z2h/view?usp=sharing">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
   
-# Product School Project - Wireframing Examples
+# Product School Project - Balsamiq Wireframing Examples
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
-  
-You are a Product Manager at Cloud Freeze
 
-A cloud infrastructure company that allows creators, governments, and enterprises to build products of the future with state of the art computing engines to scale. This company has a multi-tier pricing model for individuals working on their passion project, small teams working in the garage or apartment, enterprises with development team distributed across the world. Cloud Freeze offers a publishing platform and community that allows anyone to share their thoughts, connect with others, and discover interesting discussions on a variety of topics. Series A Venture-backed by prominent angel investors and a VC company based in Austin, Texas and growing quickly, Cloud Freeze has over 2000 companies and entrepreneurs recurring subscriptions every month. Cloud Freeze will be providing government data for use. Assume as part of their Privacy Policy and Terms all data stored will be anonymous. You've been hard at work on Synergy, a new product on the Cloud Freeze technology stack allows developers to leverage public government data (state and local) to dynamically build and distribute computing resources in areas of need. Cloud Freeze has the technology in place; however the team needs to reengineer how to deploy these services in areas in need in under 24 hours. Currently, the turnaround time to build new infrastructure takes about 14 days. Think about if you're an urban planner and wanted to build high rise condos, schools, restaurants, and coffee shops in a developing area, The services will be allotted based on needs of the apps/communities and not based on location.
+<b>Objective:</b> The teams objective was to reengineer how to deploy the feature in under 4 hours. 
+<b>Hypothesis:</b> The creation of a new automation sign up process, will result in deployment time of under 24 hours. 
+<b>MVP:</b> The creation of a new automation sign up process for Synergy, using a Wizard of Oz MVP, will allow Cloud Freeze to deploy the feature in under 4 hours, increase operational efficiency, reduce human error, lower operating costs, and create a higher return on investment for Synergy.
 
-The core infrastructure build of the platform is complete but states and cities will have different needs. The challenge is to understand how to decouple your product to serve specific geographical areas. Some of the challenges could include but not be limited to telecommunications, payments, and medical technology. Your challenge is to create a strategy and execution for Synergy to leverage the existing capabilities and tailor for specific business cases.
+<b>Deatils:</b> A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will hapen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
-<b>Balsamiq Wireframes</b>
-
-In order to reengineer the deplyment of the new feature Synergy, reducing the turnaround from 14 days to under 24 hours, we will be testing a Wizard of Oz MVP. A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will hapen automatically from a customer perspective, it will be managed manually in the background. Below is the proposed wireframe for the Wizard of Oz login and sign up process;
-
-<img src="Login Wireframe Pt 1.jpg"
-     alt="Login Wireframe Pt 1.jpg"
+<img src="Wireframe Example.jpg"
+     alt="Wireframe Example.jpg"
      style="float: left; margin-right: 0.5px;" />
-<img src="Login Wireframe Pt 2.jpg"
-     alt="Login Wireframe Pt 2.jpg"
-     style="float: left; margin-right: 0.5px;" />
-<img src="Login Wireframe Pt 3.jpg"
-     alt="Login Wireframe Pt 3.jpg"
-     style="float: left; margin-right: 0.5px;" />
-     
-<b>Profile Balsamiq Wireframe</b>
-
-<img src="Profile Wireframe.jpg"
-     alt="Profile Wireframe.jpg"
-     style="float: left; margin-right:0.5px;" />
-     
-<b>Contract Support Balsamiq Wireframe</b>
-
-<img src="Contract Support Wireframe.jpg"
-     alt="Contract Support Wireframe.jpg"
-     style="float: left; margin-right: 0.5px;" />   
