@@ -22,8 +22,6 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 <img src="Scopo Logo.jpg" 
      alt="Scopo Logo.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
-     
-# Scopo Digital Solutions
 
 # Hootsuite - Scheduling Social Media Posts
 <b>Halloween Event Marketing Campaign</b>
