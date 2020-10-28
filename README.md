@@ -43,7 +43,7 @@ The posts were scheduled in advance via the Hootsuite publisher function. Postin
 
 For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook schedule to post between 11am and 12pm. 
 
-<UL><LI><a href="https://www.instagram.com/theemptychestf/">Instagram Account: The Empty Chest</a>
+<UL><LI><a href="https://www.instagram.com/theemptychest/">Instagram Account: The Empty Chest</a>
 </UL>
 
 <b>Second Week of Campaign</b>
