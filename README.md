@@ -61,7 +61,7 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
 # Community Outreach and Marketing
 <b>The Empty Chest - Halloween Event</b>
 
-I reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
+I wrote the below article content and reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
 
 <UL><LI><a href="https://vancouversun.com/entertainment/local-arts/halloween-events-in-metro-vancouver-in-october-2020">Vancouver Sun 2020 Article</a>
 </UL> 
@@ -81,7 +81,7 @@ The Halloween Event was also featured in a solo media blog posting by Vancouver 
      
 <b>Tastefully Yours by Jeff - Thanksgiving Meal Package</b>  
 
-I reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
+I wrote the below article content and reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
 
 <UL><LI><a href="https://foodgressing.com/thanksgiving-vancouver-2020/">Foodgressing Thanksgiving Vancouver 2020 Article</a>
 </UL> 
