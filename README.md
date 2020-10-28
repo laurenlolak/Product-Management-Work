@@ -43,6 +43,9 @@ The posts were scheduled in advance via the Hootsuite publisher function. Postin
 
 For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook schedule to post between 11am and 12pm. 
 
+<UL><LI><a href="https://www.instagram.com/theemptychestf/">Instagram Account: The Empty Chest</a>
+</UL>
+
 <b>Second Week of Campaign</b>
 
 <img src="Hootsuite - Empty Chest Posts 1.jpg" 
@@ -98,7 +101,7 @@ A Kanban board is an Agile project management tool designed to help visualize wo
      alt="Scopo Digital Kanban Board.jpg"
      style="float: left; margin-right: 10px;" />
      
-# Instagram & Facebook Revamp
+# Social Media Revamp
 
 This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
