@@ -6,7 +6,7 @@ Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure 
     
 <img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
-     height="840" />
+       width="1324" height="614" />  
 
      
 <b>Website Creation & Copywriting</b>
@@ -40,7 +40,7 @@ With Business Text Messaging you can enable your SMB customers with the most pow
      
  <img src="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
      alt="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
-  width="420" height="420" />  
+  width="450.5" height="348.5" />  
      
  <b>White Paper: 6 Things Every CTO Must Know About Future-Proofing Communications</b>
 
@@ -52,7 +52,7 @@ This white paper examines the shift to mass work-from-home, which  happened rapi
 
   <img src="Cymbus Retail Whitepaper Pic.PNG" 
      alt="Cymbus Retail Whitepaper Pic.PNG" 
-  width="420" height="420" />  
+   width="450.5" height="348.5" />  
      
 <b>White Paper: The Future of Unified Communications in Retail</b>
      
@@ -63,7 +63,7 @@ This white paper examines the retail space and how UC can be leveraged for omnic
        
   <img src="Cymbus Branded Cover Pic.PNG" 
      alt="Cymbus Branded Cover Pic.PNG" 
-    width="420" height="420" />  
+    width="450.5" height="348.5" />  
      
 <b>White Paper: 9 Transformative Benefits for Enterprises of Any Size</b>
      
