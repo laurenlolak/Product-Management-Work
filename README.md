@@ -1,6 +1,4 @@
 # Product Management Work Repository
-Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure and tech solutions. This is my work repository highlighting examples in my roles as Product Marketing Manager, Product Manager, and Marketing Manager.
-
         
 # Pricing Model 
 <b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
