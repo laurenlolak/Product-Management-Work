@@ -5,7 +5,7 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 
 <img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
      alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-          style="height:128px; float: left; margin-right: 0.5px;" />  
+          style="height:75px; float: left; margin-right: 0.5px;" />  
      
 <b> White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
@@ -21,7 +21,7 @@ In this whitepaper sheet learn about:
 
  <img src="eBook BTM Pic.PNG" 
      alt="eBook BTM Pic.PNG" 
-     style="float: left; margin-right: 0.5px;" style="width:384px;height:480px; /> 
+  style="height:75px; float: left; margin-right: 0.5px;" />  
      
 <b>White Paper: Business Text Messaging - Capture Greater Market Share</b>
 
@@ -39,7 +39,7 @@ In this white paper learn about:
      
  <img src="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
      alt="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
-     style="float: left; margin-right: 0.5px;" /> 
+  style="height:75px; float: left; margin-right: 0.5px;" />  
      
  <b>White Paper: 6 Things Every CTO Must Know About Future-Proofing Communications</b>
 
@@ -56,8 +56,8 @@ This white paper examines the shift to mass work-from-home, which  happened rapi
 
   <img src="Cymbus Retail Whitepaper Pic.PNG" 
      alt="Cymbus Retail Whitepaper Pic.PNG" 
-     style="float: left; margin-right: 0.5px;" /> 
- 
+  style="height:75px; float: left; margin-right: 0.5px;" />  
+     
 <b>White Paper: The Future of Unified Communications in Retail</b>
      
 This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. At the end of this white paper you will have learned:
@@ -72,8 +72,8 @@ This white paper examines the retail space and how UC can be leveraged for omnic
        
   <img src="Cymbus Branded Cover Pic.PNG" 
      alt="Cymbus Branded Cover Pic.PNG" 
-     style="float: left; margin-right: 0.5px;" /> 
- 
+  style="height:75px; float: left; margin-right: 0.5px;" />  
+     
   <b>White Paper: 9 Transformative Benefits for Enterprises of Any Size</b>
      
 This white paper examines the cloud phone systems can be leveraged by businesses of any size to gain substantial benefits.
