@@ -7,7 +7,15 @@ Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure 
      alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
      width="356" height="420" />  
      
-<b> White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
+<b>Website Creation & Copywriting</b>
+
+Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including majr design pivot 2 weeks prior to launch. I was a key stakeholder in the developoent, design and implementation of the this website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing the marketing resources highlighted under the Resources tab. 
+
+<UL><LI><a href="https://cymbus.com/">View https://cymbus.com/</a>
+</UL>
+    
+
+<b>White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
 Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
 
@@ -58,18 +66,21 @@ This white paper examines the cloud phone systems can be leveraged by businesses
      
   <UL><LI><a href="Cymbus Whitepaper - 9 Transformative Benefits for Enterprises of Any Size.pdf">View Here</a>
 </UL>
+  
        
 <b>Blog: 2021 Cloud Communication Survey (SMB Insights for Service Providers)</b>
  2021 SMB Cloud Communications Survey providers insights into buying plans and trends to help service providers identify customer and market opportunities.
        
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/2021-smb-cloud-communications">Visit Blog</a>
 </UL>
+ 
      
 <b>Blog: 6 Ways Cloud Communications Creates Unprecedented Benefits (for Service Providers)</b>    
  Cloud services are the new normal for business. As IT's opt to host less hardware on-premises, SMBs and enterprises are increasingly divering more budget dollars to cloud communiation apps and platforms. Learn about the compelling benefits for service providers.
      
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/6-cloud-communications-benefits-service-providers">Visit Blog</a>
 </UL>
+ 
      
 <b>Blog: Retail Cloud Solution: Top 5 Service Provider Benefits</b>     
 COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how a retail cloud solution benefits the service provider, retailer, retail associates, and end customers.
@@ -77,7 +88,7 @@ COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/retail-cloud-solution-benefits">Visit Blog</a>
 </UL>     
        
-# Product Manager Examples
+# Product Manager
 
 <b>Microsoft Excel Financial Model Example - Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
@@ -126,7 +137,6 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
-# Community Outreach and Marketing
      
 <b>Community Outreach and Marketing - The Empty Chest: Halloween Event</b>
 
@@ -163,22 +173,24 @@ I wrote the below article content and reached out to a variety of bloggers, medi
      
 <b>Blog: Contact Lenses vs. Glasses (5 Professional Pros & Cons)</b>     
 Contact Lenses vs. Glasses? The choice is personal and the best option for you is heavily tied in with your lifestyle. Read our top 5 professional pros and cons for each.
-
      
 <UL><LI><a href="https://www.realeyesoptometry.com/lenses-glasses-pros-cons/">Visit Blog</a>
 </UL>     
+ 
      
 <b>Blog: Allergy Triggers & its Symptoms (7 Best Paths to Relief)</b>     
 It's allergy symptom again, with lots of us suffering from symptoms ranging from mild to severe reactions. Learn what triggers to stay away from, and the best paths to allergy relief.
      
 <UL><LI><a href="https://www.realeyesoptometry.com/allergy-triggers-7-best-relief/">Visit Blog</a>
 </UL>     
+ 
      
 <b>Blog: Womens Health & Vision Loss (Shocking Facts & 6 Easy Ways to Help Save Your Eyes)</b>     
 April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
      
 <UL><LI><a href="https://www.realeyesoptometry.com/womens-health-vision-loss/>Visit Blog</a>
 </UL>     
+
      
 <b>Blog: 9 Dry Eye Symptoms and a Wrinkle Reducing Treatment</b>     
 April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
@@ -270,12 +282,12 @@ How will we measure?
 
 <b>MVP:</b> The creation of a new automation sign up process for Synergy, using a Wizard of Oz MVP, will allow Cloud Freeze to deploy the feature in under 4 hours, increase operational efficiency, reduce human error, lower operating costs, and create a higher return on investment for Synergy.
 
-# Product Requirements Document
+<b>Product Requirements Document (PRD)</b>
 
 <UL><LI><a href="https://drive.google.com/file/d/1xcsmtWeVqYk86pazAq4WZcGQWsGeWMau/view?usp=sharing">PDF: Product Requirements Document</a>
 </UL>
      
-# Milestone Roadmap
+<b>Milestone Roadmap</b>
 
 This section is for high level milestones. Sprints are 2 weeks.
 
@@ -283,7 +295,7 @@ This section is for high level milestones. Sprints are 2 weeks.
      alt="Milestone Roadmap.jpg"
      style="float: left; margin-right: 0.5px;" />
  
-# Balsamiq Wireframes
+<b>Balsamiq Wireframes</b>
 
 A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypotheses as to whether proposed solutions will create value for customers. While this will happen automatically from a customer perspective, it will be managed manually in the background. Below are a handful of the proposed wireframes for the Wizard of Oz app creation;
 
@@ -294,14 +306,14 @@ A Wizard of Oz MVP is one of the fastest and most effective ways of testing hypo
      alt="Wireframe Example 2.jpg"
      style="float: left; margin-right: 0.5px;" />
 
-# InVision Prototype
+<b>InVision Prototype</b>
 
 I uploaded Balsamiq Wireframes into InVision. InVision is a cloud-based digital product design platform that helps professionals and businesses of create and manage prototypes. It allows for collaborating, testing and experimentation with designing templates and ideas on a digital dashboard.
 
 <UL><LI><a href="https://www.youtube.com/watch?v=A1K4TjO3zd4&feature=youtu.be">YouTube Video Demo of Prototype</a>
 </UL>
 
-# Go-To-Market Strategy
+<b>Go-To-Market Strategy</b>
 
 <UL><LI><a href="https://drive.google.com/file/d/1r1vmjQpOH9M5atoipYA_Xqq2yPHurigW/view?usp=sharing">PDF: Go-To-Market Strategy Document</a>
 </UL>
