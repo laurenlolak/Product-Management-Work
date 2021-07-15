@@ -159,6 +159,26 @@ I wrote the below article content and reached out to a variety of bloggers, medi
      alt="Foodgressing Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
+<b>Copywriting - Real Eyes Optometry</b>
+     
+<b>Blog: Contact Lenses vs. Glasses (5 Professional Pros & Cons)</b>     
+Contact Lenses vs. Glasses? The choice is personal and the best option for you is heavily tied in with your lifestyle. Read our top 5 professional pros and cons for each.
+
+     
+<UL><LI><a href="https://www.realeyesoptometry.com/lenses-glasses-pros-cons/">Visit Blog</a>
+</UL>     
+     
+<b>Blog: Allergy Triggers & its Symptoms (7 Best Paths to Relief)</b>     
+It's allergy symptom again, with lots of us suffering from symptoms ranging from mild to severe reactions. Learn what triggers to stay away from, and the best paths to allergy relief.
+     
+<UL><LI><a href="https://www.realeyesoptometry.com/allergy-triggers-7-best-relief/">Visit Blog</a>
+</UL>     
+     
+<b>Blog: Womens Health & Vision Loss (Shocking Facts & 6 Easy Ways to Help Save Your Eyes)</b>     
+April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
+     
+<UL><LI><a href="https://www.realeyesoptometry.com/womens-health-vision-loss/>Visit Blog</a>
+</UL>     
      
 <b> Social Media & Branding Revamp</b>
 
