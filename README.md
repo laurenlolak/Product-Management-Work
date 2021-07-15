@@ -3,6 +3,10 @@ Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure 
 
 # Product Marketing Manager
 
+    
+<img src="Cymbus website screenshot.png" 
+     alt="Cymbus website screenshot.png" 
+     height="840" />
 
      
 <b>Website Creation & Copywriting</b>
