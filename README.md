@@ -5,7 +5,7 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 
 <img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
      alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-          style="float: left; margin-right: 0.5px; height:128px;" />  
+          style="height:128px; float: left; margin-right: 0.5px;" />  
      
 <b> White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
