@@ -3,13 +3,11 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 
 # Product Marketing Management Examples
 
-<b>Whitepapers. Longform marketing collateral</b>
-
 <img src="Vancouver Sun Image 3.jpg" 
      alt="Vancouver Sun Image 3.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
-Cloud Phones: 9 Transformative Benefits for Service Providers
+<b>Cloud Phone Whitepaper: 9 Transformative Benefits for Service Providers</b>
 
 Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
 
@@ -18,11 +16,14 @@ In this whitepaper sheet learn about:
 - What a cloud communications solution means for your end users.
 - How to increase growth, customers, market reach and more by leveraging a cloud phone system.
 
+<UL><LI><a href="Alianza Service Provider Cloud Phone Whitepaper (1).pdf">View Here</a>
+</UL>
+
 <img src="Vancouver Sun Image 3.jpg" 
      alt="Vancouver Sun Image 3.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
-Business Text Messaging - Capture Greater Market Share
+<b>Business Text Messaging Whitepaper - Capture Greater Market Share</b>
 
 Communications service providers (CSPs) are introducing Business Text Messaging services to increase commercial revenue and get a leg up on the competition.
 
@@ -33,6 +34,43 @@ In this white paper learn about:
 - Target customers and use cases
 - Key functionality, features, and benefits
 
+<UL><LI><a href="Alianza - Business Text Messaging - White Paper.pdf">View Here</a>
+</UL>     
+
+<img src="Vancouver Sun Image 3.jpg" 
+     alt="Vancouver Sun Image 3.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+ <b>White Paper: 6 Things Every CTO Must Know About Future-Proofing Communications</b>
+
+The events of early 2020 have changed the world, and the workplace. As a result of the COVID-19 pandemic there has been an unprecedented, and necessary, shift to work-from-home. In response, may organizations were forced to rapidly adapt, adopt new tools, and invest in cap-ex heavy location agnostic devices, technology and user management solutions. The implementation of these impromptu solutions introduced substantial new security risks, and user management challenges, placing unanticipated strain on IT, administrators and HR.
+
+This white paper examines the shift to mass work-from-home, which  happened rapidly, and caught many companies unprepared; however, the shift to remote work is here to stay, requiring IT and business leaders to consider their strategy for managing a geographically dispersed workforce going forward. At the end of this white paper you will have learned:   
+- Protecting cap-ex investments, without limiting solutions growth
+- Mindful communication tool adoption
+- Buyers Guide for future-proofing communication solutions
+- How to approach single vs/ multi-vendor solutions
+     
+<UL><LI><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">View Here</a>
+</UL>    
+
+ <img src="Vancouver Sun Image 3.jpg" 
+     alt="Vancouver Sun Image 3.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+  <b>White Paper: The Future of UC in Retail</b>
+     
+This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. At the end of this white paper you will have learned:
+
+- Top tips for effectively leveraging UC in retail stores
+- How to improve the omnichannel experience
+- How to handheld devices can improve retail operations
+- How UC solutions enhance retail communications
+     
+  <UL><LI><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">View Here</a>
+</UL>    
+       
+       
 # Microsoft Excel Financial Model Example
 
 <b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
