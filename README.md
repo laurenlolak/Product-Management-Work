@@ -59,6 +59,18 @@ This white paper examines the cloud phone systems can be leveraged by businesses
   <UL><LI><a href="Cymbus Whitepaper - 9 Transformative Benefits for Enterprises of Any Size.pdf">View Here</a>
 </UL>
        
+<b>Blog: 2021 Cloud Communication Survey (SMB Insights for Service Providers)</b>
+<UL><LI><a href="https://www.alianza.com/call-to-the-cloud/2021-smb-cloud-communications">Visit Blog</a>
+</UL>
+     
+<b>Blog: 6 Ways Cloud Communications Creates Unprecedented Benefits (for Service Providers)</b>      
+<UL><LI><a href="https://www.alianza.com/call-to-the-cloud/6-cloud-communications-benefits-service-providers">Visit Blog</a>
+</UL>
+     
+<b>Blog: Retail Cloud Solution: Top 5 Service Provider Benefits</b>      
+<UL><LI><a href="https://www.alianza.com/call-to-the-cloud/retail-cloud-solution-benefits">Visit Blog</a>
+</UL>     
+       
 # Product Manager Examples
 
 <b>Microsoft Excel Financial Model Example - Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
