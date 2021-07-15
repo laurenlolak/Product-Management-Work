@@ -50,11 +50,11 @@ This white paper examines the retail space and how UC can be leveraged for omnic
        
   <img src="Cymbus Branded Cover Pic.PNG" 
      alt="Cymbus Branded Cover Pic.PNG" 
-  width="356" height="420" />  
+     style="float: left; width="356" height="420" />  
      
-  <b>White Paper: 9 Transformative Benefits for Enterprises of Any Size</b>
+<style="float: right; <b>White Paper: 9 Transformative Benefits for Enterprises of Any Size</b>
      
-This white paper examines the cloud phone systems can be leveraged by businesses of any size to gain substantial benefits.
+This white paper examines the cloud phone systems can be leveraged by businesses of any size to gain substantial benefits.>
      
   <UL><LI><a href="Cymbus Whitepaper - 9 Transformative Benefits for Enterprises of Any Size.pdf">View Here</a>
 </UL> 
