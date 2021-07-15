@@ -3,9 +3,7 @@ Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure 
 
 # Product Marketing Manager
 
-<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-     alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-     width="356" height="420" />  
+
      
 <b>Website Creation & Copywriting</b>
 
@@ -14,7 +12,10 @@ Launched April 2021, this website was created as a customer facing resource and 
 <UL><LI><a href="https://cymbus.com/">View https://cymbus.com/</a>
 </UL>
     
-
+<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
+     alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
+     width="356" height="420" />  
+     
 <b>White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
 Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
