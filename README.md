@@ -59,9 +59,9 @@ This white paper examines the cloud phone systems can be leveraged by businesses
   <UL><LI><a href="Cymbus Whitepaper - 9 Transformative Benefits for Enterprises of Any Size.pdf">View Here</a>
 </UL>
        
-# Microsoft Excel Financial Model Example
+# Product Manager Examples
 
-<b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
+<b>Microsoft Excel Financial Model Example - Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
   Financials model inputs are;
 - Capital cost to deploy a hardware product
@@ -77,27 +77,16 @@ This white paper examines the cloud phone systems can be leveraged by businesses
      alt="Financial Model Example SNIP.jpg"
      style="float: left; margin-right: 10px;" />
 
-<img src="Scopo Logo.jpg" 
-     alt="Scopo Logo.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
+# Marketing Manager Consultation Examples
 
-# Hootsuite - Scheduling Social Media Posts
-<b>Halloween Event Marketing Campaign</b>
+<b>Hootsuite - Halloween Event Marketing Campaign</b>
 
 This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020.The strategy was;
 -	Set clear expectations regarding the customer experience during the event.
 -	Write a compelling narrative that creates interest by pulling the reader into the storyline.
 -	Product positioning, highlighting the unique aspects to differentiate the event in comparison to competing Halloween events such as PNE’s Fright Nights. 
 
-The posts were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. For Instagram the times vary. The Instagram posts were set up at the below optimal time of day;
-
-- Monday: 11am
-- Tuesday: 10am
-- Wednesday: 11am
-- Thursday: 10am
-- Friday: 11am
-- Saturday: 9am, 10am and 11am
-- Sunday: 8am
+The posts were scheduled in advance via the Hootsuite publisher function. Posting times, for each day, were set based on the time of day when engagement is highest on each platform. For Instagram the times vary. The Instagram posts were set up at the below optimal time of day.
 
 For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Originally we elected for posts at 5pm; however, after reviewing the engagement stats from the first week of the campaign, I altered the Facebook schedule to post between 11am and 12pm. 
 
@@ -120,7 +109,8 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      style="float: left; margin-right: 0.5px;" /> 
      
 # Community Outreach and Marketing
-<b>The Empty Chest - Halloween Event</b>
+     
+<b>Community Outreach and Marketing - The Empty Chest: Halloween Event</b>
 
 I wrote the below article content and reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
 
@@ -151,15 +141,8 @@ I wrote the below article content and reached out to a variety of bloggers, medi
      alt="Foodgressing Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
-# Kanban Board    
-  
-A Kanban board is an Agile project management tool designed to help visualize work, prioritize tasks, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help our team commit to the right amount of work, and get it done!
-  
-<img src="Scopo Trello SNIP.jpg"
-     alt="Scopo Digital Kanban Board.jpg"
-     style="float: left; margin-right: 10px;" />
      
-# Social Media Revamp
+<b> Social Media & Branding Revamp</b>
 
 This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
@@ -198,7 +181,8 @@ After completion of a basic website structure check, drag test, SEO score assess
      
 <UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
-    
+
+     
     
 <b>Presentation for 'Main Street Animal Hospital'</b>
 
@@ -217,7 +201,7 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <img src="Product School Logo.jpg" 
       style="float: left; margin-right: 0.25px;" />    
   
-# Product School Project
+# Product School Projects
 
 <b>Product Brief: Business to Business (B2B) New Feature Launch</b>
 
