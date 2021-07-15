@@ -54,11 +54,11 @@ This white paper examines the shift to mass work-from-home, which  happened rapi
 <UL><LI><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">View Here</a>
 </UL>    
 
-     <img src="Cymbus Retail Whitepaper Pic.PNG" 
+  <img src="Cymbus Retail Whitepaper Pic.PNG" 
      alt="Cymbus Retail Whitepaper Pic.PNG" 
      style="float: left; margin-right: 0.5px;" /> 
  
-  <b>White Paper: The Future of Unified Communications in Retail</b>
+<b>White Paper: The Future of Unified Communications in Retail</b>
      
 This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. At the end of this white paper you will have learned:
 
@@ -67,7 +67,7 @@ This white paper examines the retail space and how UC can be leveraged for omnic
 - How to handheld devices can improve retail operations
 - How UC solutions enhance retail communications
      
-  <UL><LI><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">View Here</a>
+<UL><LI><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">View Here</a>
 </UL>    
        
   <img src="Cymbus Branded Cover Pic.PNG" 
