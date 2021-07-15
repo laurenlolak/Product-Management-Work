@@ -3,74 +3,54 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 
 # Product Marketing Management Examples
 
-<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" width="256" height="320" />  
+<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
+     alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
+     width="356" height="420" />  
      
 <b> White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
 Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
-
-In this whitepaper sheet learn about:
-- How cloud phone systems provide substantive gains for service providers.
-- What a cloud communications solution means for your end users.
-- How to increase growth, customers, market reach and more by leveraging a cloud phone system.
 
 <UL><LI><a href="Alianza Service Provider Cloud Phone Whitepaper (1).pdf">View Here</a>
 </UL>
 
  <img src="eBook BTM Pic.PNG" 
      alt="eBook BTM Pic.PNG" 
-  style="height:75px; float: left; margin-right: 0.5px;" />  
+  width="356" height="420" />  
      
 <b>White Paper: Business Text Messaging - Capture Greater Market Share</b>
 
-Communications service providers (CSPs) are introducing Business Text Messaging services to increase commercial revenue and get a leg up on the competition.
-
-In this white paper learn about:
-
-- Business opportunities for service providers
-- Go-to-market considerations 
-- Target customers and use cases
-- Key functionality, features, and benefits
+With Business Text Messaging you can enable your SMB customers with the most powerful communication channel — allowing them to reach their customers on the one channel they always have with them — their smartphones.
      
 <UL><LI><a href="Alianza - Business Text Messaging - White Paper.pdf">View Here</a>
 </UL>     
      
  <img src="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
      alt="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
-  style="height:75px; float: left; margin-right: 0.5px;" />  
+  width="356" height="420" />  
      
  <b>White Paper: 6 Things Every CTO Must Know About Future-Proofing Communications</b>
 
 The events of early 2020 have changed the world, and the workplace. As a result of the COVID-19 pandemic there has been an unprecedented, and necessary, shift to work-from-home. In response, may organizations were forced to rapidly adapt, adopt new tools, and invest in cap-ex heavy location agnostic devices, technology and user management solutions. The implementation of these impromptu solutions introduced substantial new security risks, and user management challenges, placing unanticipated strain on IT, administrators and HR.
-
-This white paper examines the shift to mass work-from-home, which  happened rapidly, and caught many companies unprepared; however, the shift to remote work is here to stay, requiring IT and business leaders to consider their strategy for managing a geographically dispersed workforce going forward. At the end of this white paper you will have learned:   
-- Protecting cap-ex investments, without limiting solutions growth
-- Mindful communication tool adoption
-- Buyers Guide for future-proofing communication solutions
-- How to approach single vs/ multi-vendor solutions
+This white paper examines the shift to mass work-from-home, which  happened rapidly, and caught many companies unprepared; however, the shift to remote work is here to stay, requiring IT and business leaders to consider their strategy for managing a geographically dispersed workforce going forward. 
        
 <UL><LI><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">View Here</a>
 </UL>    
 
   <img src="Cymbus Retail Whitepaper Pic.PNG" 
      alt="Cymbus Retail Whitepaper Pic.PNG" 
-  style="height:75px; float: left; margin-right: 0.5px;" />  
+  width="356" height="420" />  
      
 <b>White Paper: The Future of Unified Communications in Retail</b>
      
-This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. At the end of this white paper you will have learned:
-
-- Top tips for effectively leveraging UC in retail stores
-- How to improve the omnichannel experience
-- How to handheld devices can improve retail operations
-- How UC solutions enhance retail communications
+This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. 
      
 <UL><LI><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">View Here</a>
 </UL>    
        
   <img src="Cymbus Branded Cover Pic.PNG" 
      alt="Cymbus Branded Cover Pic.PNG" 
-  style="height:75px; float: left; margin-right: 0.5px;" />  
+  width="356" height="420" />  
      
   <b>White Paper: 9 Transformative Benefits for Enterprises of Any Size</b>
      
