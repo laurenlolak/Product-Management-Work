@@ -60,14 +60,20 @@ This white paper examines the cloud phone systems can be leveraged by businesses
 </UL>
        
 <b>Blog: 2021 Cloud Communication Survey (SMB Insights for Service Providers)</b>
+ 2021 SMB Cloud Communications Survey providers insights into buying plans and trends to help service providers identify customer and market opportunities.
+       
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/2021-smb-cloud-communications">Visit Blog</a>
 </UL>
      
-<b>Blog: 6 Ways Cloud Communications Creates Unprecedented Benefits (for Service Providers)</b>      
+<b>Blog: 6 Ways Cloud Communications Creates Unprecedented Benefits (for Service Providers)</b>    
+ Cloud services are the new normal for business. As IT's opt to host less hardware on-premises, SMBs and enterprises are increasingly divering more budget dollars to cloud communiation apps and platforms. Learn about the compelling benefits for service providers.
+     
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/6-cloud-communications-benefits-service-providers">Visit Blog</a>
 </UL>
      
-<b>Blog: Retail Cloud Solution: Top 5 Service Provider Benefits</b>      
+<b>Blog: Retail Cloud Solution: Top 5 Service Provider Benefits</b>     
+COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how a retail cloud solution benefits the service provider, retailer, retail associates, and end customers.
+     
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/retail-cloud-solution-benefits">Visit Blog</a>
 </UL>     
        
