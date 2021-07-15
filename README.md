@@ -3,7 +3,7 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 
 # Product Marketing Management Examples
 
-<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" width="192" height="240" />  
+<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" width="256" height="320" />  
      
 <b> White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
