@@ -1,6 +1,38 @@
 # Work-Repository
 Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solutions. This is my Product Management work repository.
 
+# Product Marketing Management Examples
+
+<b>Whitepapers. Longform marketing collateral</b>
+
+<img src="Vancouver Sun Image 3.jpg" 
+     alt="Vancouver Sun Image 3.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+Cloud Phones: 9 Transformative Benefits for Service Providers
+
+Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
+
+In this whitepaper sheet learn about:
+- How cloud phone systems provide substantive gains for service providers.
+- What a cloud communications solution means for your end users.
+- How to increase growth, customers, market reach and more by leveraging a cloud phone system.
+
+<img src="Vancouver Sun Image 3.jpg" 
+     alt="Vancouver Sun Image 3.jpg" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+Business Text Messaging - Capture Greater Market Share
+
+Communications service providers (CSPs) are introducing Business Text Messaging services to increase commercial revenue and get a leg up on the competition.
+
+In this white paper learn about:
+
+- Business opportunities for service providers
+- Go-to-market considerations 
+- Target customers and use cases
+- Key functionality, features, and benefits
+
 # Microsoft Excel Financial Model Example
 
 <b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
