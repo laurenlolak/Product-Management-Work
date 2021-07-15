@@ -1,8 +1,7 @@
-# Work-Repository
+# Product Management Work Repository
 Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure and tech solutions. This is my work repository highlighting examples in my roles as Product Marketing Manager, Product Manager, and Marketing Manager.
 
 # Product Marketing Manager
-
     
 <img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
