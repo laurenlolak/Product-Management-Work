@@ -5,7 +5,7 @@ Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solut
 
 <img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
      alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-     style="float: left; margin-right: 0.5px;" /> 
+     style="float: left; margin-right: 0.025px;" /> 
      
 <b> White Paper: Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
@@ -19,9 +19,9 @@ In this whitepaper sheet learn about:
 <UL><LI><a href="Alianza Service Provider Cloud Phone Whitepaper (1).pdf">View Here</a>
 </UL>
 
-<img src="Vancouver Sun Image 3.jpg" 
-     alt="Vancouver Sun Image 3.jpg" 
-     style="float: left; margin-right: 0.5px;" /> 
+ <img src="eBook BTM Pic.PNG" 
+     alt="eBook BTM Pic.PNG" 
+     style="float: left; margin-right: 0.05px;" /> 
      
 <b>White Paper: Business Text Messaging - Capture Greater Market Share</b>
 
@@ -33,10 +33,6 @@ In this white paper learn about:
 - Go-to-market considerations 
 - Target customers and use cases
 - Key functionality, features, and benefits
-
- <img src="eBook BTM Pic.PNG" 
-     alt="eBook BTM Pic.PNG" 
-     style="float: left; margin-right: 0.5px;" /> 
      
 <UL><LI><a href="Alianza - Business Text Messaging - White Paper.pdf">View Here</a>
 </UL>     
