@@ -1,7 +1,7 @@
 # Work-Repository
-Hi, I'm Lauren, a product expert with 12+ years in infrastructure and tech solutions. This is my Product Management work repository.
+Hi, I'm Lauren, a product and marketing expert with 12+ years in infrastructure and tech solutions. This is my work repository highlighting examples in my roles as Product Marketing Manager, Product Manager, and Marketing Manager.
 
-# Product Marketing Management Examples
+# Product Marketing Manager
 
 <img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
      alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
@@ -95,7 +95,7 @@ COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how
      alt="Financial Model Example SNIP.jpg"
      style="float: left; margin-right: 10px;" />
 
-# Marketing Manager Consultation Examples
+# Marketing Manager Consulting
 
 <b>Hootsuite - Halloween Event Marketing Campaign</b>
 
@@ -180,7 +180,14 @@ April is all about Womens Health. Learn the facts, if you are at risk, and what 
 <UL><LI><a href="https://www.realeyesoptometry.com/womens-health-vision-loss/>Visit Blog</a>
 </UL>     
      
-<b> Social Media & Branding Revamp</b>
+<b>Blog: 9 Dry Eye Symptoms and a Wrinkle Reducing Treatment</b>     
+April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
+     
+<UL><LI><a href="https://www.realeyesoptometry.com/9-dry-eye-symptoms-wrinkle-treatment/>Visit Blog</a>
+</UL>          
+
+     
+<b> Social Media Branding Revamp</b>
 
 This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
