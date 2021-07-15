@@ -1,5 +1,7 @@
 # Product Management Work Repository
-        
+      Defined pricing strategy for products in pricing line using complex financial models, balancing risk management,
+profitability goals and market knowledge, Product Manager at Zayo for Western Canada, Central and Mountain US (Rocky Mountain Region) building custom fiber optic and Private Dedicated Network (PDN) infrastructure networks.  
+
 # Pricing Model 
 <b>Hardware Product Financial Model</b> - Used to calculate return on investment (ROI), internal rate of return (IRR), net present value (NPV), cash flows, monthly recurring revenue (MRR) and total contract value (TCV) in order to gauge value of project, and determine if project makes sense with business objectives.
 
