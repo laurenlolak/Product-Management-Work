@@ -1,5 +1,6 @@
 # Product Management Work Repository
-      Defined pricing strategy for products in pricing line using complex financial models, balancing risk management,
+
+Defined pricing strategy for products in pricing line using complex financial models, balancing risk management,
 profitability goals and market knowledge, Product Manager at Zayo for Western Canada, Central and Mountain US (Rocky Mountain Region) building custom fiber optic and Private Dedicated Network (PDN) infrastructure networks.  
 
 # Pricing Model 
